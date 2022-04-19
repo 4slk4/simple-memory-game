@@ -6,7 +6,7 @@ Submitted by: **KHANG TA**
 
 Time spent: **4** hours spent in total
 
-Link to project: https://glitch.com/edit/#!/accessible-serious-manx
+Link to project: https://accessible-serious-manx.glitch.me/
 
 ## Required Functionality
 
